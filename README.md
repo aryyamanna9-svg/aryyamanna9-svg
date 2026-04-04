@@ -1,18 +1,89 @@
-# 💫 About Me:
-Hi there 👋, I'm Aryya!<br><br>🎓 I'm a Computer Science (AI & ML) student passionate about building intelligent systems that solve real-world problems.<br><br>💡 I enjoy working with data, training machine learning models, and turning raw information into meaningful insights. My focus is on developing practical ML solutions that can make an impact.<br><br>🔍 Currently exploring:<br>- Machine Learning & Deep Learning<br>- Data Analysis & Visualization<br>- Real-world AI applications<br><br>🛠️ Tech Stack:<br>- Languages: Python, SQL<br>- ML: Linear Regression, Logistic Regression, KNN, K-Means, Decision Trees<br>- Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow<br>- Tools: Git, Jupyter Notebook, VS Code<br><br>📌 Projects I've worked on:<br>- Student Score Prediction System<br>- Spam Email Detection System<br>- Car Price Prediction System<br><br>📈 I’m continuously learning and improving my skills in AI/ML and software development.<br><br>🤝 Open to collaboration, internships, and learning opportunities!<br><br>📫 Reach me at: aryyamanna9@gmail.com
+<h1 align="center">Hi 👋, I'm Aryya</h1>
+<h3 align="center">🚀 AI & ML Enthusiast | Building Intelligent Systems</h3>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aryya7221_49007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/aryya-manna-002b792a3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryyamanna9@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aryyamanna9-svg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aryyamanna9-svg&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryyamanna9-svg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Machine+Learning+Developer;AI+Explorer;Flask+Web+App+Builder;Data+Driven+Thinker;Always+Learning+New+Things" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aryyamanna9-svg&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+🎓 Computer Science (AI & ML) student passionate about solving real-world problems  
+💡 Love working with data, ML models & meaningful insights  
+🌐 Building ML-powered web apps using Flask  
+📈 Continuously improving in AI/ML & software development  
+🤝 Open to internships & collaboration opportunities  
+
+---
+
+## 🔍 Currently Exploring
+- Machine Learning & Deep Learning  
+- Data Analysis & Visualization  
+- Flask for ML Deployment  
+- Real-world AI Applications  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+
+### 🤖 ML & Libraries
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+---
+
+### 🌐 Web & Tools
+![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📌 Projects
+- 🎯 Student Score Prediction System  
+- 📧 Spam Email Detection System  
+- 🚗 Car Price Prediction System  
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/aryya-manna-002b792a3">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:aryyamanna9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=aryyamanna9&icon=5&color=12" />
+</p>
