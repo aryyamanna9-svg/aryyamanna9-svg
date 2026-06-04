@@ -1,6 +1,16 @@
 # 💫 About Me:
 🎓 Computer Science (AI & ML) student passionate about solving real-world problems  <br>💡 Love working with data, ML models & meaningful insights  <br>🌐 Building ML-powered web apps using Flask  <br>📈 Continuously improving in AI/ML & software development  <br>🤝 Open to internships & collaboration opportunities  
 
+---
+
+## 🔍 Currently Exploring
+- Machine Learning & Deep Learning  
+- Data Analysis & Visualization  
+- Flask for ML Deployment  
+- Real-world AI Applications  
+
+---
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/aryya-manna-002b792a3) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AryyaManna42364) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryyamanna9@gmail.com) 
@@ -12,6 +22,10 @@
 ![](https://streak-stats.demolab.com/?user=aryyamanna9-svg&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aryyamanna9-svg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 👀 Profile Views
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=aryyamanna9&icon=5&color=12" />
+</p>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
