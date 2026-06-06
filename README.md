@@ -51,10 +51,6 @@
 
 ## 🐍 Contribution Snake
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryyamanna9-svg/aryyamanna9-svg/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryyamanna9-svg/aryyamanna9-svg/output/github-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/aryyamanna9-svg/aryyamanna9-svg/output/github-snake-dark.svg" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
