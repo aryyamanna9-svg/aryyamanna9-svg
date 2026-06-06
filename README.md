@@ -3,11 +3,6 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Aryya%20Manna&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Data%20Science&descAlignY=58&descColor=8b949e" width="100%"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+Student+%7C+AI+%26+ML+Enthusiast;Building+Intelligent+Apps;Data+%E2%86%92+Insights+%E2%86%92+Impact;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <!-- Profile Views + Followers Badges -->
