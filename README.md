@@ -1,4 +1,12 @@
-🎓 Computer Science (AI & ML) student passionate about solving real-world problems <br>💡 Love working with data, ML models & meaningful insights  <br>🌐 Building ML-powered apps using Flask<br>📈 Continuously improving in AI/ML & software development <br>🤝 Open to internships & collaboration opportunities  <br>🔍 Currently Exploring<br>- Machine Learning & Deep Learning  <br>- Data Analysis & Visualization  <br>- Flask for ML Deployment  <br>- Real-world AI Applications  <br>--- i want to this camping gif in my beside about me section
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20I%20am%20Aryya%20%F0%9F%91%8B&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=50" width="100%"/>
+### 💫 About Me:
+
+🎓 Computer Science (AI & ML) student passionate about solving real-world problems  <br>💡 Love working with data, ML models & meaningful insights  <br>🌐 Building ML-powered apps using Flask  <br>📈 Continuously improving in AI/ML & software development  <br>🤝 Open to internships & collaboration opportunities  
+
+---
+
+##🔍 Currently Exploring:
+<br>- Machine Learning & Deep Learning  <br>- Data Analysis & Visualization  <br>- Flask for ML Deployment  <br>- Real-world AI Applications  <br>-- i want to this camping gif in my beside about me section
 
 ## 🌐 Connect With Me
 
