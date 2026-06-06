@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer Science (AI & ML) student passionate about solving real-world problems  <br>💡 Love working with data, ML models & meaningful insights  <br>🌐 Building ML-powered apps using Flask  <br>📈 Continuously improving in AI/ML & software development  <br>🤝 Open to internships & collaboration opportunities  
+🎓 Computer Science (AI & ML) student passionate about solving real-world problems  💡 Love working with data, ML models & meaningful insights  <br>🌐 Building ML-powered apps using Flask  📈 Continuously improving in AI/ML & software development  <br>🤝 Open to internships & collaboration opportunities  
 ---
 ## 🔍 Currently Exploring
 - Machine Learning & Deep Learning  
