@@ -1,40 +1,6 @@
-## 💫 About Me
-
-```python
-class AryyaManna:
-    def __init__(self):
-        self.name        = "Aryya Manna"
-        self.role        = "CS (AI & ML) Student"
-        self.location    = "West Bengal, India 🇮🇳"
-        self.interests   = ["Machine Learning", "Deep Learning",
-                            "Data Analysis", "Flask ML Deployment"]
-        self.currently   = "Building ML-powered web apps"
-        self.open_to     = ["Internships", "Collaborations", "Open Source"]
-
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something awesome together 🚀")
-
-me = AryyaManna()
-me.say_hi()
-```
-
----
-
-## 🔍 Currently Exploring
-
-<div align="center">
-
-| 🧠 Machine Learning & Deep Learning | 📊 Data Analysis & Visualization |
-|:---:|:---:|
-| 🌐 Flask for ML Deployment | 🤖 Real-world AI Applications |
-
-</div>
-
----
+🎓 Computer Science (AI & ML) student passionate about solving real-world problems <br>💡 Love working with data, ML models & meaningful insights  <br>🌐 Building ML-powered apps using Flask<br>📈 Continuously improving in AI/ML & software development <br>🤝 Open to internships & collaboration opportunities  <br>🔍 Currently Exploring<br>- Machine Learning & Deep Learning  <br>- Data Analysis & Visualization  <br>- Flask for ML Deployment  <br>- Real-world AI Applications  <br>--- i want to this camping gif in my beside about me section
 
 ## 🌐 Connect With Me
-
-<div align="center">
 
 
 ## 🌐 Socials:
