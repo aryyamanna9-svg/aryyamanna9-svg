@@ -1,23 +1,13 @@
-## 💫 About Me:
-
-<table>
-<tr>
-<td valign="top" width="60%">
-
-🎓 Computer Science (AI & ML) student passionate about solving real-world problems  
-💡 Love working with data, ML models & meaningful insights  
-🌐 Building ML-powered apps using Flask  
-📈 Continuously improving in AI/ML & software development  
-🤝 Open to internships & collaboration opportunities  
-
-</td>
-<td valign="center" width="40%">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
+# 💫 About Me:
+🎓 Computer Science (AI & ML) student passionate about solving real-world problems  <br>💡 Love working with data, ML models & meaningful insights  <br>🌐 Building ML-powered apps using Flask  <br>📈 Continuously improving in AI/ML & software development  <br>🤝 Open to internships & collaboration opportunities  
+---
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500"/>
+## 🔍 Currently Exploring
+- Machine Learning & Deep Learning  
+- Data Analysis & Visualization  
+- Flask for ML Deployment  
+- Real-world AI Applications  
+--- i want to this camping gif in my beside about me section
 
 
 
