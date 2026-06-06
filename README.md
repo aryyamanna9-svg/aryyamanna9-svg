@@ -1,22 +1,3 @@
-<div align="center">
-
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Aryya%20Manna&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=MachineLearning%20%%20ML%20%7C%20Data%20Science&descAlignY=58&descColor=8b949e" width="100%"/>
-
-<br/>
-
-<!-- Profile Views + Followers Badges -->
-<img src="https://komarev.com/ghpvc/?username=aryyamanna9&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/aryyamanna9?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
-
-</div>
-
-
-
-
-
-
 # 💫 About Me:
 🎓 Computer Science (AI & ML) student passionate about solving real-world problems  <br>💡 Love working with data, ML models & meaningful insights  <br>🌐 Building ML-powered apps using Flask  <br>📈 Continuously improving in AI/ML & software development  <br>🤝 Open to internships & collaboration opportunities  
 
