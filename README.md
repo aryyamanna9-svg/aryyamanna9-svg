@@ -7,7 +7,7 @@
 ---
 
 ##🔍 Currently Exploring:
-<br>- Machine Learning & Deep Learning  <br>- Data Analysis & Visualization  <br>- Flask for ML Deployment  <br>- Real-world AI Applications  <br>--
+<br>- Machine Learning & Deep Learning  <br>- Data Analysis & Visualization  <br>- Flask for ML Deployment  <br>- Real-world AI Applications  <br>
 
 
 ## 🌐 Socials:
